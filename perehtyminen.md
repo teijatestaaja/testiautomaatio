@@ -1,6 +1,7 @@
 # Perehtymismateriaali
 
-Itsenäinen perehtyminen testiautomaatiossa yleisesti käytettäviin työkaluihin.
+Itsenäinen perehtyminen testiautomaatiossa yleisesti käytettäviin työkaluihin. Tämä on vapaasti käytettävissä, jos tekijä on mainittu.
+Jos koet saavasi jotain hyötyä tästä niin laita palautetta tai kehitysehdotuksia tulemaan teija.alasalmi@gmail.com
 
 ## Python
 
@@ -46,7 +47,7 @@ Itsenäinen perehtyminen testiautomaatiossa yleisesti käytettäviin työkaluihi
 - Robot Framework https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#installation-instructions
 - Git https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
-## Muita eniten käytettyjä työkaluja erilaisiin ympäristöihin ja tekniikoihin
+## Muita eniten käytettyjä työkaluja erilaisiin ympäristöihin & tekniikoihin
 
 - Cypress https://www.cypress.io/
 - Selenium IDE https://www.selenium.dev/selenium-ide/
@@ -62,7 +63,7 @@ Itsenäinen perehtyminen testiautomaatiossa yleisesti käytettäviin työkaluihi
 - REST-assured http://rest-assured.io/
 
 ## Ilmaisia kursseja
- 
+
 - Test Automation University https://testautomationu.applitools.com/
 - Robot Framework https://testautomationu.applitools.com/robot-framework-tutorial/
 - ISTQB
