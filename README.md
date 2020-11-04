@@ -2,6 +2,6 @@
 
 Tervetuloa perehtymään testiautomaatioon!
 
-Tässä materiaalissa esitellään testiautomaatioon liittyviä työkaluja, kursseja, vinkkejä sekä [linkkejä](perehtyminen.md) näihin.
+Tässä materiaalissa esitellään testiautomaatioon liittyviä työkaluja, kursseja ja vinkkejä. Hyödynnä vapaasti, kunhan mainitset tekijäksi Teija Alasalmi. Jos koet saavasi jotain hyötyä tästä niin laita palautetta tai kehitysehdotuksia tulemaan teija.alasalmi@gmail.com
 
-Hyödynnä vapaasti, kunhan mainitset tekijäksi Teija Alasalmi
+- [Python & Robot Framework](python_robot.md)
