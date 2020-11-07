@@ -23,7 +23,7 @@ Toinen Testitapaus
 
 *** Keywords ***
 Oma Avainsana
-    [Documentation]    Oma avain sana johonkin toimintaan.
+    [Documentation]    Oma avainsana johonkin toimintaan.
     ...
     ...                Kuvataan avainsanan toimintaa.
     [Arguments]        ${lokiviesti}
