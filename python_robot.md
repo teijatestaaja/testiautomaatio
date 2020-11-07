@@ -2,7 +2,7 @@
 
 Itsenäinen perehtyminen Python-ohjelmointikieleen sekä seuraaviin testiautomaatiokehityksessä käytettäviin työkaluihin: Robot Framework, SeleniumLibrary, Git, Jenkins, Gitlab. Tämä on vapaasti käytettävissä lähdemateriaalina, jos tekijä on mainittu.
 
-Viimeksi päivitetty: 4.11.2020 - Teija Alasalmi 
+Viimeksi päivitetty: 7.11.2020 - Teija Alasalmi 
 
 ## Python
 
@@ -22,6 +22,7 @@ Viimeksi päivitetty: 4.11.2020 - Teija Alasalmi
 ## Robot Framework
 
 - Robot Framework https://robotframework.org/
+- Pikaopas aloittamiseen https://github.com/robotframework/QuickStartGuide/blob/master/QuickStart.rst
 - Knowitin Robot Framework -videosarja suomeksi https://www.youtube.com/watch?v=H9YVlFKdOeM
 - Kurssi: https://testautomationu.applitools.com/robot-framework-tutorial/
 
